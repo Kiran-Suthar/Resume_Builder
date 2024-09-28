@@ -15,11 +15,3 @@ React Icons
 Redux
 
 
-
-License:
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Acknowledgments:
-Special thanks to the developers and maintainers of the libraries and frameworks used in this project, without whom this project wouldn't have been possible.
-
-Thank You
